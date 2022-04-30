@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NPC
+  - Terrain
+  - Formation
+  - Hierba
+  - Agua
+  - Carretera
+  - Bosque
+  - Puente
+  - Muro
+  - PathFinding
+  - Wall
+  - Zona Curacion Esp
+  - Zona Curacion Fra
+  - Base Esp
+  - Base Fra
+  - Pradera
+  - PathFindingAStar
+  - Zona
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Minimapa
+  - Visibilidad
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
