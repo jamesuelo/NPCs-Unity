@@ -15,6 +15,7 @@ public class PathFinding : MonoBehaviour
     public NPC npc;
     public bool tactico;
 
+
     public float multiplicadorTerreno;
     public float multiplicadorInfluencia;
     public float multiplicadorVisibilidad;
